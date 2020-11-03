@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-finding what I like!🤔
+I'm finding what I like!...🤔
 <!--
 **nada5un/nada5un** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
