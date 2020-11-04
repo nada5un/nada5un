@@ -1,4 +1,4 @@
-### just do it 
+### just do it!👯
  
 learning Android, SQL, Unity...🌱 
 <!--
