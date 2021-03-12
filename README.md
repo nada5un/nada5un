@@ -1,6 +1,6 @@
 ### just do it!👯
  
-learning Android, SQL, Unity...🌱 
+learning SQL, JAVA With Web ...🌱 
 <!--
 **nada5un/nada5un** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
