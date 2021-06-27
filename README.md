@@ -2,8 +2,6 @@
  
 learning SQL, Web With JAVA SpringBoot ...🌱 
 
-https://www.notion.so/bravecompany/Vue-14116f473cde43b9a4cb0579a391d767
-
 <!--
 **nada5un/nada5un** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
