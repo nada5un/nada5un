@@ -1,7 +1,8 @@
 ### just do it!👯
  
-learning Vue, React 😄
-Frontend Developer 🌱 
+- 😄 learning Vue, React
+- 🌱 Frontend Developer
+
 
 <!--
 **nada5un/nada5un** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
