@@ -1,7 +1,13 @@
 ### just do it!👯
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nada5un&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
-- 😄 learning Vue, React
-- 🌱 Frontend Developer
+### learning  
+- Vue, React 💻
+- Frontend Developer 🌱
+
+
 
 
 <!--
