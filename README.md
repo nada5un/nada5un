@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nada5un&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 ### learning  
-- Vue, React 💻
+- Vue, React, Flutter 💻
 - Frontend Developer 🌱
 
 https://www.notion.so/4a4935d5e78a46fa84f0dbed7e3eee71
