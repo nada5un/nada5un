@@ -7,7 +7,7 @@
 - Vue, React 💻
 - Frontend Developer 🌱
 
-
+https://www.notion.so/4a4935d5e78a46fa84f0dbed7e3eee71
 
 
 <!--
