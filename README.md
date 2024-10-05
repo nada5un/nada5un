@@ -4,7 +4,7 @@
  <span>I'm Frontend & mobile App Developer 🌱</span>
  
  
- <a href="[https://www.notion.so/4a4935d5e78a46fa84f0dbed7e3eee71](https://angry-nigella-093.notion.site/4a4935d5e78a46fa84f0dbed7e3eee71?pvs=74)" style="color:black">about me 👋</a>
+ <a href="https://angry-nigella-093.notion.site/4a4935d5e78a46fa84f0dbed7e3eee71" style="color:black">about me 👋</a>
 
    <Br/>
  <h4>🛠 Tech Skills 🛠</h4>
