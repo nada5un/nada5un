@@ -4,7 +4,7 @@
  <span>I'm Frontend & mobile App Developer 🌱</span>
  
  
- <a href="https://angry-nigella-093.notion.site/4a4935d5e78a46fa84f0dbed7e3eee71" style="color:black">about me 👋</a>
+ <a href="https://pricey-kayak-c79.notion.site/Daeun-Sung-254c1e9c2d5e813c83dfd1069791c22c" style="color:black">about me 👋</a>
 
    <Br/>
  <h4>🛠 Tech Skills 🛠</h4>
