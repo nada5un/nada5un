@@ -1,6 +1,6 @@
 
 <div >
- <h2>Hi, I'm Daeun Sung (Sally) </h2>
+ <h2>Hi, I'm Daeun (Sally) Sung </h2>
  <h3>just do it!👯</h3>
   <Br/>
  <span>I'm Frontend & mobile App Developer 🌱</span>
